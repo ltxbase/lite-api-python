@@ -1,5 +1,5 @@
 ===================
-TRON API for Python
+LITE API for Python
 ===================
 
 A Python API for interacting with the Tron (TRX)
